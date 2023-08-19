@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1692290869 source:d:\pablo\universidad pablo\topicos\programas\clase1\practica de pablito\practicando con pablito\funciones.c
+	"Funciones.h"
+
+1692286838 d:\pablo\universidad pablo\topicos\programas\clase1\practica de pablito\practicando con pablito\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1692290911 source:d:\pablo\universidad pablo\topicos\programas\clase1\practica de pablito\practicando con pablito\main.c
+	"Funciones.h"
+

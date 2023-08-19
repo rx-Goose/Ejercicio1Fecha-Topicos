@@ -169,8 +169,3 @@ Fecha restarDiasAFecha(const Fecha *f, int dias)
     }
     return fechaFinal;
 }
-
-void unoMasUno()
-{
-    int a = 1 + 1;
-}

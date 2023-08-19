@@ -2,11 +2,11 @@
 
 void ingresarFecha(Fecha *x)
 {
-    puts("Ingrese una fecha (d/m/a).");
+    puts("Ingrese una fecha(d/m/a):");
     scanf("%d/%d/%d",&x->d,&x->m,&x->a);
     while(!esFechaValida(x))
     {
-        puts("Ingrese una fecha (d/m/a).");
+        puts("Ingrese una fecha(d/m/a):");
         scanf("%d/%d/%d", &x->d, &x->m, &x->a);
     }
 }

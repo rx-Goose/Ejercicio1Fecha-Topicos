@@ -4,6 +4,8 @@ int main()
 {
     Fecha fInicio,fDiaDeSemana,fSuma,fARestar,fResta,fFechaInicial,fRestado;
 
+    unoMasUno();
+
     puts("\n Punto Clase. \n");
     ingresarFecha(&fInicio);    //Manda direccion del struct
 

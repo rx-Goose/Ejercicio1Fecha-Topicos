@@ -18,6 +18,7 @@ void mostrarFecha(const Fecha *);
 void restaFechas(Fecha *, const Fecha *);
 void ingresarFecha(Fecha *);
 void queDiaEsFecha(int);
+void unoMasUno();
 int cantDiaMes(int,int);
 int ingresarEnteroPositivo();
 int logicaDiaSemanal(const Fecha *);
